@@ -23,5 +23,7 @@ public class Salary {
             double sal = itr.next().salary;
             System.out.println(sal* 0.30);
         }
+
+
     }
 }
