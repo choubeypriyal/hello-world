@@ -20,7 +20,7 @@ public class Salary {
         list.add(new Employee(10000));
         Iterator<Employee> itr = list.iterator();
         while (itr.hasNext()){
-            double sal = itr.next().salary;
+            double sal = itr.next().getSalary();
             System.out.println(sal* 0.30);
         }
 

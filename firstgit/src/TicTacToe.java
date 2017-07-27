@@ -1,8 +1,11 @@
+
+
 import java.util.Scanner;
 
 /**
  * Created by choubeyp on 7/17/2017.
  */
+/*
 public class TicTacToe {
     enum State {X, O}
 
@@ -27,7 +30,7 @@ public class TicTacToe {
         }
         return firstPiece;
     } */
-
+/*
     public State checkGroup(int r, int c, int dr, int dc) {
         State firstPiece = board[r][c];
         for (int i = 1; i < n; i++) {
@@ -72,7 +75,7 @@ public class TicTacToe {
         }
     }
 
-
+*/
     /*State checkDiagonal(int r, int c) {
         State state = board[r][c];
 
@@ -125,5 +128,5 @@ public class TicTacToe {
             return 1;
         else
             return 0;
-    }*/
-}
+    }
+*/
